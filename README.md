@@ -1,8 +1,8 @@
-# 🌏 Solo Traveling – Travel Companion Platform
+# 🌏 Rover – Travel Companion Platform
 
 > A vision to make traveling accessible to all.
 
-**Solo Traveling** is a comprehensive travel platform designed to empower solo travelers, groups, and communities across India. The project integrates cutting-edge AI with practical travel solutions to make journeys safer, smarter, and more affordable.
+**Rover** is a comprehensive travel platform designed to empower solo travelers, groups, and communities across India. The project integrates cutting-edge AI with practical travel solutions to make journeys safer, smarter, and more affordable.
 
 ## ✨ Key Features
 
